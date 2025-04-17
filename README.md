@@ -1,1 +1,1 @@
-# Course-object-oriented-desgin-
+# Course-object-oriented-design-
